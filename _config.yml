@@ -84,16 +84,18 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Manuscripts'    
-  conferences:
-    title: 'Conference Papers'
   articles:
     title: 'Publications'
   workingpapers:
     title: 'Working Papers'
   inprogress:
     title: 'Work in Progress'
+  # jobmarketpaper:
+  #   titel: 'Job Market Paper'
+  # manuscripts:
+  #   title: 'Manuscripts'    
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
