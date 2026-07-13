@@ -11,10 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finance, Nazarbayev University Graduate School of Business, 2027 (expected)
+* M.Sc. in Economics, Lomonosov Moscow State University, 2020
+* B.A. in Economics, S. Seifullin Kazakh Agro-Technical University, 2018
 
+Research Interests
+===
+* Behavioral and experimental finance
+  * Dynamic inconsistency
+  * Narrow vs. broad bracketing
+  * Risk preference elicitation
+
+{% comment %}
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,15 +39,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% endcomment %}
 
 Publications
 ======
@@ -47,18 +47,29 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Assistant, Nazarbayev University Graduate School of Business
+* *Summer 2026* - GTA, *BUS101* (core business course), Undergraduate
+* *Spring 2026* - GTA, *Principles of Finance*, Undergraduate (BBA)
+* *2021-2023* - TA, *Investments I & II*, MSc in Finance
+* *2022* - TA, *Principles of Finance* and *Project Finance*, EMBA
+* *2020-2022* - TA, *Financial Econometrics*, MSc in Finance
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Ad hoc reviewer at [Experimental Economics](https://www.cambridge.org/core/journals/experimental-economics)
+
+Skills
+======
+* **Programming:** Python (pandas, numpy, SciPy, TensorFlow), R, oTree
+* **Methods:** Experimental design, panel data econometrics, machine learning
+* **Languages:** Kazakh, Russian, English, Turkish

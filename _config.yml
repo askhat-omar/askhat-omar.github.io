@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Finance | Behavioral & Experimental Finance"
   location         : "Astana, Kazakhstan"
-  employer         : ""
+  employer         : # Employer
   uri              : # URL
   email            : "askhat.omar@nu.edu.kz" 
 
@@ -72,7 +72,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "askhat_omar"
+  telegram         : # Username
   tumblr           : # Username
   twitter          : "askhat_omar"
   vine             : # Username
