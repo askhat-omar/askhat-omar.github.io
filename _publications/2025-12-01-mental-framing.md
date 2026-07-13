@@ -1,5 +1,5 @@
 ---
-title: 'Mental framing effects in dynamic portfolio choice'
+title: 'Mental Framing Effects in Dynamic Portfolio Choice'
 coauthors: 'Enrico De Giorgi, Thierry Post'
 collection: publications
 category: articles
