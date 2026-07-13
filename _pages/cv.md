@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Finance, Nazarbayev University Graduate School of Business, 2027 (expected)
+* Ph.D in Business Administration (Finance), Nazarbayev University Graduate School of Business, 2027 (expected)
 * M.Sc. in Economics, Lomonosov Moscow State University, 2020
 * B.A. in Economics, S. Seifullin Kazakh Agro-Technical University, 2018
 
