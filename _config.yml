@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  articles:
-    title: 'Publications'
-  workingpapers:
-    title: 'Working Papers'
   inprogress:
     title: 'Work in Progress'
+  workingpapers:
+    title: 'Working Papers'
+  articles:
+    title: 'Publications'
   # jobmarketpaper:
   #   titel: 'Job Market Paper'
   # manuscripts:

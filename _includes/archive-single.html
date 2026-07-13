@@ -44,8 +44,8 @@
         {% elsif post.collection == 'publications' %}
           {% if post.jmp %}<p><span class="pub-jmp">Job Market Paper</span></p>{% endif %}
           {% if post.coauthors %}<p class="pub-coauthors">with {{ post.coauthors }}</p>{% endif %}
-          <p class="pub-venue"><strong>{{ post.venue }}</strong>{% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
           {% if post.status %}<p class="pub-status"><em>{{ post.status }}</em></p>{% endif %}
+          <p class="pub-venue"><strong>{{ post.venue }}</strong>{% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
           {% if post.excerpt %}<details class="pub-abstract"><summary>Abstract</summary>{{ post.excerpt | markdownify }}</details>{% endif %}
           {% if post.paperurl or post.codeurl or post.dataurl or post.slidesurl %}
           <p class="pub-links">
